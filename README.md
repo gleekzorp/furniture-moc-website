@@ -1,3 +1,3 @@
-# furniture-moc-website
+# furniture-mock-website
 
 - First day challenge for students
